@@ -48,7 +48,7 @@ for step in tqdm.tqdm(range(steps)):
     total_loss.backward()
     optimizer.step()
     
-    if step % 200 == 0:
+    if step % 20 == 0:
         print(f"Step {step}, total loss = {total_loss.item()}")
         save_image(undo_transform(generated), f"generated_images/{str(step).zfill(5)}.png")
 # %%
