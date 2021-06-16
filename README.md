@@ -11,6 +11,6 @@ A pretrained VGG model, or a pretrained Resnet151 model is used to extract featu
 
 The content and style losses are defined as such :  
 
-[png](https://user-images.githubusercontent.com/60552083/122243699-9e51b980-cec4-11eb-8cd3-ca4224b2b8d1.png)
+[](https://user-images.githubusercontent.com/60552083/122243699-9e51b980-cec4-11eb-8cd3-ca4224b2b8d1.png)
 
 
