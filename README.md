@@ -31,3 +31,10 @@ And the final loss to backpropagate is
 ![skylinemandrian](https://user-images.githubusercontent.com/60552083/122271451-b551d500-cedf-11eb-90e6-3ad75282bada.png)
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/60552083/122271610-e29e8300-cedf-11eb-9c8f-a144a0fa6e89.gif)
 ![01980 (1)](https://user-images.githubusercontent.com/60552083/122271657-f0ec9f00-cedf-11eb-88b4-1359c1960f02.png)
+
+### *Emergence of Orange*, by Koola Adams and a Tokyo street
+2000 steps, 9 minutes on Google Colab GPU
+![koolatokyo](https://user-images.githubusercontent.com/60552083/122280666-b982f000-cee9-11eb-85e4-01eef9a5e13e.png)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/60552083/122280722-c7d10c00-cee9-11eb-8c5c-2d630aa7f5df.gif)
+![02100](https://user-images.githubusercontent.com/60552083/122280772-d4556480-cee9-11eb-8ce8-3eea6e652f04.png)
+
