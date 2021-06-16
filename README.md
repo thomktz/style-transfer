@@ -26,3 +26,8 @@ And the final loss to backpropagate is
 ![ezgif-3-0dca9815969c](https://user-images.githubusercontent.com/60552083/122255183-2b4d4080-cece-11eb-8b4e-08246a8078d8.gif)
 ![05980](https://user-images.githubusercontent.com/60552083/122255202-2f795e00-cece-11eb-94bc-f89d2f0f941c.png)
 
+### *Tableau I*, 1921, by Piet Mondrian and a picture of a skyline
+2000 steps, 9 minutes on Google Colab GPU
+![skylinemandrian](https://user-images.githubusercontent.com/60552083/122271451-b551d500-cedf-11eb-90e6-3ad75282bada.png)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/60552083/122271610-e29e8300-cedf-11eb-9c8f-a144a0fa6e89.gif)
+![01980 (1)](https://user-images.githubusercontent.com/60552083/122271657-f0ec9f00-cedf-11eb-88b4-1359c1960f02.png)
