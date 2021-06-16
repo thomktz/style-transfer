@@ -13,4 +13,10 @@ The content and style losses are defined as such :
 
 ![](https://user-images.githubusercontent.com/60552083/122243699-9e51b980-cec4-11eb-8cd3-ca4224b2b8d1.png)
 
+And the final loss to backpropagate is  
+
+![](https://user-images.githubusercontent.com/60552083/122244297-10c29980-cec5-11eb-945b-06eb937b3dd5.png)
+
+
+### Results
 
