@@ -20,3 +20,8 @@ And the final loss to backpropagate is
 
 ### Results
 
+![](https://github.com/thomktz/style-transfer/blob/main/treated_images/windows.jpg)
+
+![ezgif-3-0dca9815969c](https://user-images.githubusercontent.com/60552083/122254648-98aca180-cecd-11eb-8cc5-29a85a3b04c8.gif)
+
+![](https://github.com/thomktz/style-transfer/blob/main/treated_images/the_scream.jpg)
