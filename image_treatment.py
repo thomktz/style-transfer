@@ -4,7 +4,7 @@ from torchvision import transforms
 import torch
 from torchvision.transforms.transforms import Resize
 
-out_size = 200
+out_size = 400
 
 def prepare_image(filename):
     input_image = Image.open(filename)
