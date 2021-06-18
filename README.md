@@ -23,8 +23,9 @@ And the final loss to backpropagate is
 ### *The Scream*, by Edvard Munch and the Windows background image
 6000 steps, ~30 minutes on Google Colab GPU
 ![images2](https://user-images.githubusercontent.com/60552083/122255168-27b9b980-cece-11eb-9342-61fe0592ba52.png)
-![ezgif-3-0dca9815969c](https://user-images.githubusercontent.com/60552083/122255183-2b4d4080-cece-11eb-8b4e-08246a8078d8.gif)
-![05980](https://user-images.githubusercontent.com/60552083/122255202-2f795e00-cece-11eb-94bc-f89d2f0f941c.png)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/60552083/122588107-f9b7af00-d05e-11eb-8ee7-2c0f531a1440.gif)
+![0030](https://user-images.githubusercontent.com/60552083/122588170-0fc56f80-d05f-11eb-9f77-03fd795d68a4.png)
+
 
 ### *Tableau I*, 1921, by Piet Mondrian and a picture of a skyline
 2000 steps, 9 minutes on Google Colab GPU
