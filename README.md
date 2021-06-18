@@ -20,6 +20,12 @@ And the final loss to backpropagate is
 
 # Results
 
+### *Starry Night* by Van Gogh, and a town
+![starrytown](https://user-images.githubusercontent.com/60552083/122601543-bc105180-d071-11eb-9824-6e2f751ec5b9.png)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/60552083/122601550-bdda1500-d071-11eb-9c82-088890d407c3.gif)
+![0059](https://user-images.githubusercontent.com/60552083/122601560-c4688c80-d071-11eb-9c16-cd3077381323.png)
+
+
 ### *The Scream*, by Edvard Munch and the Windows background image
 ![images2](https://user-images.githubusercontent.com/60552083/122255168-27b9b980-cece-11eb-9342-61fe0592ba52.png)
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/60552083/122588107-f9b7af00-d05e-11eb-8ee7-2c0f531a1440.gif)
