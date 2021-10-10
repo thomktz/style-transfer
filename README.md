@@ -32,7 +32,7 @@ And the final loss to backpropagate is
 ![0030](https://user-images.githubusercontent.com/60552083/122588170-0fc56f80-d05f-11eb-9f77-03fd795d68a4.png)
 
 
-### *Tableau I*, 1921, by Piet Mondrian and a picture of a skyline
+### *Tableau I*, 1921, by Piet Mondrian and a picture of the London skyline
 ![skylinemandrian](https://user-images.githubusercontent.com/60552083/122271451-b551d500-cedf-11eb-90e6-3ad75282bada.png)
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/60552083/122271610-e29e8300-cedf-11eb-9c8f-a144a0fa6e89.gif)
 ![01980 (1)](https://user-images.githubusercontent.com/60552083/122271657-f0ec9f00-cedf-11eb-88b4-1359c1960f02.png)
